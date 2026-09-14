@@ -1,16 +1,21 @@
-## Hi there 👋
+# Marcelo Finamor Vieira
 
-<!--
-**marcelofinamorvieira/marcelofinamorvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and maintain plugins and developer tools for [DatoCMS](https://www.datocms.com), with a focus on content editing and developer workflows.
 
-Here are some ideas to get you started:
+### Selected contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[AI Translations](https://github.com/datocms/plugins/tree/master/ai-translations)**  
+Translate localized content directly in DatoCMS.
+
+**[Web Previews](https://github.com/datocms/plugins/tree/master/web-previews)**  
+Website previews and visual editing inside DatoCMS.
+
+**[Schema Import/Export](https://github.com/datocms/plugins/tree/master/import-export-schema)**  
+Move content models, blocks, and fields between DatoCMS projects.
+
+**[Agent Skills](https://github.com/datocms/agent-skills)**  
+Practical DatoCMS workflows for coding agents.
+
+---
+
+[Plugin development and maintenance](https://github.com/datocms/plugins/commits/master/?author=marcelofinamorvieira) · [Developer tooling contributions](https://github.com/datocms/agent-skills/commits/master/?author=marcelofinamorvieira)
